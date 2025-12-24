@@ -35,10 +35,8 @@ I combine my background in **Psychology** with technical logic to build **User-C
 
 ### 📈 My GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SantiNones&amp;show_icons=true&amp;theme=dark&amp;hide_border=true&amp;cache_seconds=1800" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiNones&amp;layout=compact&amp;theme=dark&amp;hide_border=true&amp;cache_seconds=1800" />
-</p>
+![Santiago's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SantiNones&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SantiNones&layout=compact&theme=dark&hide_border=true&cache_seconds=1800)
 
 ---
 
