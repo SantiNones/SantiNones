@@ -35,8 +35,9 @@ I combine my background in **Psychology** with technical logic to build **User-C
 
 ### 📈 My GitHub Stats
 
-![Santiago's GitHub Stats](https://github-readme-stats-snowy-two-75.vercel.app/api?username=SantiNones&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats-snowy-two-75.vercel.app/api/top-langs/?username=SantiNones&layout=compact&theme=dark&hide_border=true)
+![Santiago's GitHub Stats](https://github-readme-stats-snowy-two-75.vercel.app/api?username=SantiNones&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400&v=2)
+![Top Languages](https://github-readme-stats-snowy-two-75.vercel.app/api/top-langs/?username=SantiNones&layout=compact&theme=dark&hide_border=true&cache_seconds=86400&v=2)
+
 
 ---
 
