@@ -14,11 +14,11 @@ Currently focused on **AI applications, internal tools, automation workflows, Sa
 I'm currently looking for opportunities in:
 
 - **Full Stack Development**
-- **Frontend / React Development**
 - **AI Product Engineering**
 - **AI Automation / Workflow Automation**
 - **Internal Tools / Operations Engineering**
 - **Forward-Deployed Engineering-style roles**
+- **Frontend / React Development**
 
 I’m especially interested in teams building practical AI products, automation platforms, operational tools, SaaS workflows, or products where user experience and business logic matter.
 
@@ -55,48 +55,83 @@ I’m especially interested in teams building practical AI products, automation 
 
 ## Featured Projects
 
+### OpsGuard  
+Risk-aware AI Skill for HR Operations.
+
+An AI workflow system for HR Operations that routes employee requests across policy answers, live employee data, access restrictions, payroll reports, and human review cases. Built to demonstrate safe AI behavior in sensitive workflows such as leave, payroll, time tracking, overtime, and employee data access.
+
+Highlights: policy grounding, role-based access control, enterprise context, human-in-the-loop review queue, payroll self-service, evals, deterministic fallback, and production-oriented safety patterns.
+
+Built with: Next.js, TypeScript, Tailwind CSS, OpenAI-ready workflows, policy retrieval, evals, Vercel
+
+[Live Demo](https://opsguard-ai-skill.vercel.app/) · [GitHub](https://github.com/SantiNones/opsguard-ai-skill)
+
+---
+
 ### Career Autopilot  
-**AI-powered job search and application workflow system.**
+AI-powered job search and application workflow system.
 
-A full-stack application that helps users collect, evaluate, prioritize, and manage job opportunities. It includes job ingestion, fit analysis, resume/profile handling, application tracking, and AI-assisted career workflow automation.
+A full-stack AI application that helps users collect, evaluate, prioritize, and manage job opportunities. It includes job ingestion, fit analysis, gap detection, resume/profile handling, application tracking, and AI-assisted career workflow automation.
 
-**Built with:** Next.js, TypeScript, PostgreSQL, Prisma, AI workflows
+Highlights: structured outputs, fit scoring, job pipeline management, resume parsing, application tracking, and AI-assisted career decision support.
 
+Built with: Next.js, TypeScript, PostgreSQL, Prisma, OpenAI workflows, Vercel
+
+[GitHub
+](https://github.com/SantiNones/career-autopilot)
 ---
 
 ### ProjectFlow AI  
-**AI-assisted project intake and delivery planning tool.**
+AI-assisted project intake and delivery planning tool.
 
-Transforms vague business requests into structured project briefs, development scopes, implementation phases, task breakdowns, and exportable handoff materials. Designed as an internal tool for agencies, consultants, and technical teams.
+Transforms vague business requests into structured project briefs, development scopes, implementation phases, task breakdowns, and exportable handoff materials. Designed as an internal tool for agencies, consultants, product teams, and technical delivery teams.
 
-**Built with:** Next.js, TypeScript, Tailwind CSS, AI-assisted planning logic
+Highlights: project intake, structured PM/dev briefs, delivery planning, implementation phases, task breakdowns, JSON/CSV export, bilingual UX.
+
+Built with: Next.js, TypeScript, Tailwind CSS, AI-assisted planning logic, Vercel
+
+[Live Demo](https://projectflow-ai-chi.vercel.app/) · [GitHub](https://github.com/SantiNones/projectflow-ai)
 
 ---
 
-### WhatsApp Agent MVP  
-**Conversational WhatsApp agent for business intake workflows.**
+### WhatsApp Agent  
+Conversational WhatsApp agent for business intake workflows.
 
-A Node.js-based agent that connects Twilio WhatsApp with OpenAI to qualify leads, collect structured information, remember conversation context, and support vertical-specific workflows such as tattoo studio intake.
+A WhatsApp-based AI agent that connects Twilio with OpenAI to qualify leads, collect structured information, remember conversation context, and support vertical-specific workflows such as tattoo studio intake.
 
-**Built with:** Node.js, Express, Twilio, OpenAI API
+Highlights: conversational intake, lead qualification, structured data capture, memory by phone number, vertical-specific prompts, human handoff patterns.
 
+Built with: Node.js, Express, Twilio WhatsApp API, OpenAI API
+
+[GitHub
+](https://github.com/SantiNones/whatsapp-agent-mvp)
 ---
 
 ### RISE Habit Tracker  
-**Gamified habit tracking app with AI-assisted task progression.**
+Gamified habit tracking app focused on behavior change.
 
-A full-stack habit tracker designed around motivation, progression, and user engagement. Includes authentication, habit tracking, XP, levels, leaderboard concepts, and an interface focused on behavior change.
+A full-stack habit tracker designed around motivation, progression, and user engagement. Includes authentication, habit tracking, XP, levels, leaderboard concepts, and an interface focused on helping users build consistency.
 
-**Built with:** React, JavaScript, Python, Flask, SQLAlchemy
+Highlights: authentication, habit management, XP system, progression logic, user-focused dashboard, gamified behavior design.
+
+Built with: React, JavaScript, Python, Flask, SQLAlchemy
+
+[Live Demo](https://rise-app.onrender.com/) · [GitHub](https://github.com/SantiNones/rise-habit-tracker)
 
 ---
 
 ### STATION App  
-**Workspace reservation platform for remote workers.**
+Workspace reservation platform for remote workers.
 
-A startup-oriented SaaS prototype that connects remote workers with cafés and workspaces, including reservation flows, product structure, and user-focused interface design.
+A startup-oriented SaaS prototype that connects remote workers with cafés and workspaces. Includes reservation flows, product structure, and a user-focused interface designed around flexible work and workspace discovery.
 
-**Built with:** React, TypeScript, full-stack architecture
+Highlights: reservation flow, marketplace-style product thinking, workspace discovery, SaaS interface, remote-work use case.
+
+Built with: React, TypeScript, full-stack architecture
+
+[GitHub
+](https://github.com/SantiNones/station-app)
+---
 
 ---
 
