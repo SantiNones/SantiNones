@@ -115,14 +115,6 @@ I’m particularly interested in the intersection of:
 
 ---
 
-## GitHub Stats
-
-![Santiago's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SantiNones&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SantiNones&layout=compact&theme=github_dark)
-
----
-
 ## Let's connect
 
 - [LinkedIn](https://www.linkedin.com/in/santiago-nones/)
